@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![komsunubil-logo](https://github.com/shakg/komsunubil/blob/main/komsunubil-logo.png) \
 Öncelikle narenciye diyarı Muğladan tüm dünyaya selamlar!
 # Bu repo nedir ? 
@@ -14,3 +15,34 @@
 - [ ] Bu aşamada UI kısmı 80% tamamlandı ve backend en temel seviyede çalışıyorsa alan adı alınacak 
 
 
+=======
+# komsunubil
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your unit tests
+```
+npm run test:unit
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> init
