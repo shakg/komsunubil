@@ -5,7 +5,8 @@
 - Komşunubil ile kendinize çok da tanımadığınız bir yerde ev arayışı içerisindeyseniz (satın almak veya kiralamak olabilir) komsunubil platformu üzerinden bölgenin puanlarına ve yorumlarına bakabilirsiniz.
 
 # Todo
-- [ ] en temel seviyede, Front-end, Back-end ve veritabanı olarak ne kullanılacağına karar ver.
+- [x] en temel seviyede, Front-end, Back-end ve veritabanı olarak ne kullanılacağına karar ver.
+  - nodejs - expressjs vuecli tailwind ve postgresql de karar kılındı.
 - [ ] en basit şekilde uygulamayı ayağa kaldır.
 - [ ] kolay bir şekilde veri girebilme imkanı sağla.
 - [ ] kolay bir şekilde filtreleme ve harita üzerinde görüntüleme imkanı sağla
