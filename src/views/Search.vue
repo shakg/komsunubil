@@ -1,7 +1,7 @@
 <template>
-  <div class="home">
+  <div class="searchPage">
     <img alt="komsunubil logo" src="../assets/komsunubil-logo.png" />
-    <h1>komsunubil'e hosgeldin</h1>
+    <h1>Search Page</h1>
   </div>
 </template>
 
@@ -10,8 +10,8 @@ import { Options, Vue } from "vue-class-component";
 
 @Options({
   components: {
-    Home
+      Search
   },
 })
-export default class Home extends Vue {}
+export default class Search extends Vue {}
 </script>

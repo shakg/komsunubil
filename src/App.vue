@@ -1,7 +1,8 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">Anasayfa</router-link> |
+    <router-link to="/search">Gelişmiş Arama</router-link> |
+    <router-link to="/about">Hakkımızda</router-link>
   </div>
   <router-view />
 </template>
