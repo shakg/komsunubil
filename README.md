@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![komsunubil-logo](https://github.com/shakg/komsunubil/blob/main/komsunubil-logo.png) \
 Öncelikle narenciye diyarı Muğladan tüm dünyaya selamlar!
 # Bu repo nedir ? 
@@ -45,4 +44,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> init
