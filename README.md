@@ -1,7 +1,8 @@
 # KomsunuBil
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 Komsunubil is a project where you can submit comment & rate your location and it's capabilities such as lighting, street safety, public transportation ease etc.
+
+ - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
+
 
 
 ## Current snapshot
@@ -16,7 +17,7 @@ Komsunubil is a project where you can submit comment & rate your location and it
  - [ ] Launch to heroku or similar platform.
  - [ ] Add UI & Unit tests.
  - [ ] Add CI/CD.
- 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
