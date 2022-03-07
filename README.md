@@ -6,6 +6,17 @@ Komsunubil is a project where you can submit comment & rate your location and it
 
 ## Current snapshot
 ![Current Snapshot of Frontend](https://github.com/shakg/komsunubil/blob/main/src/assets/cs.PNG)
+
+## Roadmap
+ - [ ] Add basic frontend
+ - [ ] Think about possible features.
+ - [ ] Filter these features to reach MVP ASAP.
+ - [ ] Implement frontend of MVP
+ - [ ] Implement backend API of MVP
+ - [ ] Launch to heroku or similar platform.
+ - [ ] Add UI & Unit tests.
+ - [ ] Add CI/CD.
+ 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
