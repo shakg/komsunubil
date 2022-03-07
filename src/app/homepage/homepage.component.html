@@ -1,0 +1,88 @@
+
+<h1>Öne çıkan şehirler</h1>
+
+<div class="featured-cities">
+    <mat-card class="featured-city" *ngFor="let city of cities">
+        <mat-card-title>
+            {{city.name}}
+        </mat-card-title>
+        <mat-card-subtitle>
+            {{city.rating}}
+        </mat-card-subtitle>
+        <mat-card-content>
+            {{city.detail}}
+        </mat-card-content>
+        <mat-card-actions>
+            <button mat-button>LIKE</button>
+            <button mat-button>SHARE</button>
+          </mat-card-actions>
+    </mat-card>
+    <!-- <mat-card class="featured-city">
+        <mat-card-title>Shiba Inu</mat-card-title>
+        <mat-card-subtitle>Dog Breed</mat-card-subtitle>
+        <mat-card-content>
+          <p>This card indeterminates progress bar.</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-button>LIKE</button>
+          <button mat-button>SHARE</button>
+        </mat-card-actions>
+    </mat-card>
+    <mat-card class="featured-city">
+        <mat-card-title>Shiba Inu</mat-card-title>
+        <mat-card-subtitle>Dog Breed</mat-card-subtitle>
+        <mat-card-content>
+          <p>This card indeterminates progress bar.</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-button>LIKE</button>
+          <button mat-button>SHARE</button>
+        </mat-card-actions>
+    </mat-card>
+    <mat-card class="featured-city">
+        <mat-card-title>Shiba Inu</mat-card-title>
+        <mat-card-subtitle>Dog Breed</mat-card-subtitle>
+        <mat-card-content>
+          <p>This card indeterminates progress bar.</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-button>LIKE</button>
+          <button mat-button>SHARE</button>
+        </mat-card-actions>
+    </mat-card>
+    <mat-card class="featured-city">
+        <mat-card-title>Shiba Inu</mat-card-title>
+        <mat-card-subtitle>Dog Breed</mat-card-subtitle>
+        <mat-card-content>
+          <p>This card indeterminates progress bar.</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-button>LIKE</button>
+          <button mat-button>SHARE</button>
+        </mat-card-actions>
+    </mat-card>
+    <mat-card class="featured-city">
+        <mat-card-title>Shiba Inu</mat-card-title>
+        <mat-card-subtitle>Dog Breed</mat-card-subtitle>
+        <mat-card-content>
+          <p>This card indeterminates progress bar.</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-button>LIKE</button>
+          <button mat-button>SHARE</button>
+        </mat-card-actions>
+    </mat-card>
+    <mat-card class="featured-city">
+        <mat-card-title>Shiba Inu</mat-card-title>
+        <mat-card-subtitle>Dog Breed</mat-card-subtitle>
+        <mat-card-content>
+          <p>This card indeterminates progress bar.</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-button>LIKE</button>
+          <button mat-button>SHARE</button>
+        </mat-card-actions>
+    </mat-card> -->
+</div>
+
+<button mat-raised-button class="seeMoreButton" style="background-color:#2B00A6; color:white">Yeni bölgeler keşfet</button>

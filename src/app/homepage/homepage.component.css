@@ -1,0 +1,20 @@
+h1{
+    margin-left:70px;
+    font-weight: bolder;
+}
+.featured-cities{
+    margin:30px;
+    padding:20px;
+    align-items: center;
+    display : flex;
+    justify-content : center;
+    flex-direction: row;
+    align-items : center;
+}
+.seeMoreButton{
+    float: right;
+    margin-right:70px
+}
+.featured-city{
+    margin:20px
+}
